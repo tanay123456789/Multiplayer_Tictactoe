@@ -11,6 +11,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const Box=()=>{
+  return(
+
+
+  
 
 
 <div class="container">
@@ -55,6 +59,6 @@ const Box=()=>{
 
 
 </div>
-}
+  )}
 
 export default Box;
